@@ -1,4 +1,4 @@
-(function ( exports, require, module, __filename, __dirname) {
+(function ( exports, require, module, __filename, __dirname) {   //Wrapper Function
 const EventEmitter = require('events');
 
  var url = 'http://mylogger.io/log';
