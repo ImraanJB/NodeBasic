@@ -1,3 +1,4 @@
+(function ( exports, require, module, __filename, __dirname) {
 const EventEmitter = require('events');
 
  var url = 'http://mylogger.io/log';
@@ -14,3 +15,5 @@ const EventEmitter = require('events');
  
 
  module.exports =  Logger;
+
+});
